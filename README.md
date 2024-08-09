@@ -53,6 +53,15 @@ The Memory Hierarchy Simulation Project is a comprehensive simulation tool desig
 5. After the simulation completes, summary statistics including the total number of references, hits, misses, read ratio, write ratio, hit ratio, and miss ratio will be displayed.
 6. To exit, enter `quit` when prompted to choose a memory management policy.
 
+## Sample Output
+**FIFO Summary Stats** <br>
+![FIFOsummary](https://github.com/user-attachments/assets/f0f2ccfa-05d1-4b58-a2af-ce1eb7c58fd4)
+
+**Generalized Summary Stats** <br>
+![stats](https://github.com/user-attachments/assets/c0723ffd-cc83-4a9a-a0fb-ba963b0bb923)
+
+
+
 ## Contributing
 
 Contributions to the Memory Hierarchy Simulation Project are welcome. Please feel free to fork the repository, make changes, and submit pull requests. For major changes or new feature requests, please open an issue first to discuss what you would like to change.
